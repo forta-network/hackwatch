@@ -1,26 +1,5 @@
 [
   {
-    "id": "blocksec-121",
-    "isExploit": true,
-    "date": "2023-11-22",
-    "protocol": "KyberSwap",
-    "chain": "BASE",
-    "category": "hack",
-    "severity": "critical",
-    "funds": "$46.0M",
-    "fundsNum": 46000000.0,
-    "txHash": "0xef2c710b4dab33844b6affb1b05bdb943a1f89d4c22fdd6ddd5b07ea12d92360",
-    "txLink": "https://basescan.org/tx/0xef2c710b4dab33844b6affb1b05bdb943a1f89d4c22fdd6ddd5b07ea12d92360",
-    "account": "BlockSec",
-    "tweetUrl": "https://blocksec.com/blog/kyberswap-incident-masterful-exploitation-of-rounding-errors-with-exceedingly-subtle-calculations",
-    "summary": "KyberSwap exploited on BASE \u2014 $46.0M lost via Precision Loss",
-    "reasoning": "BlockSec curated incident (confirmed loss $46.0M). Root cause: Precision Loss",
-    "confidence": "high",
-    "fortaRisk": null,
-    "fortaProfit": null,
-    "fortaModules": ""
-  },
-  {
     "id": "blocksec-122",
     "isExploit": true,
     "date": "2023-12-05",
